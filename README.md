@@ -9,29 +9,38 @@ As you start planning your composition, consider: What ideas do *you* want help 
 ## Generative constraints
 
 **Baseline Criteria** \
-_To be updated in lesson 12_ \
+_Updated as of lesson 12 (March 2)_ \
 For a minimum grade of B, all projects for this unit must…
 
-* Guide viewers' attention using at least one design strategy among Dominance & Hierarchy (strong contrasts), Positive/Negative space, or Rhythm & Movement
+* Use arrangement, size, color, visual rhythm, and/or contrast to focus and guide viewers' attention.
 * Have a clear message or intervention that you can articulate
 * If including words, choose a font that matches the style/tone of your piece
 * If not using words, clarify your message and this choice in the reflection
-* For all of the above, explain your choices in the reflection
 * Credit all assets correctly, including attribution (creator names) where required
 * Use at least 3 layers
 * Use at least 1 tool beyond select, move, and text
+* Use the reflecton to clarify your compositional choices and goals (e.g. design hierarchy)
+* Use meaningful commit messages that say what's changing (and maybe even why)
 
 
 **Aspirational Inspirations** \
 To target (but not guarantee) a grade above a B, the best projects for this unit may…
 
-* Use multiple design strategies in ways that compliment each other (whether to reinforce a single shared focus or to add nuance / surprise down the hierarchy)
-* Have a clear message/focus that others can articulate without your text (as shown in their feedback)
-* Use more than 3 tools (beyond select, move, and text) that are new to you
-* If using multiple fonts, use fonts that pair well (explained via reference to readings)
-* Organize the canvas toward simple, minimalist design (slogan/headline, not paragraphs)
 * Organize your files through layer labeling, layer groups, repo structure
-* Use meaningful commit messages that say what’s changing (and maybe even why)
+* Use more than 3 distinct overlapping layers
+* Use more than 3 tools beyond select, move, and text that are new to you
+  - e.g. Collaborate with the machine by using automated tools/filters/effects (gradients, blur, etc)
+  - e.g. Use layer masks / blend modes for non-destructive extraction, saturation, cross-fades, etc
+* Alter part of a source image by compositing it with another image to change its meaning (see, e.g. the [globe as ice cream](https://github.com/benmiller314/cdm2021spring/issues/6#issuecomment-781038538), [pillow as pill](https://github.com/benmiller314/cdm2021spring/issues/6#issuecomment-781522661), [ketchup as tomatoes](https://github.com/benmiller314/cdm2020fall/issues/7#issuecomment-698522176), [ocean as carpet](https://github.com/benmiller314/cdm2020fall/issues/7#issuecomment-698534979))
+* Create your own visual assets through photography, scanned or born-digital drawing, etc
+* Demonstrate through feedback that someone looking at your piece can accurately articulate your message/argument
+* Demonstrate through feedback that someone looking at your piece can accurately describe your intended audience
+* Try to make your design more accessible, e.g. through dyslexia-friendly fonts, color palettes designed for people with colorblindness, high contrast for people with visual impairments, etc
+* Use multiple design strategies in ways that compliment each other (whether to reinforce a single shared focus or to add nuance / surprise down the hierarchy)
+* Refer to assigned readings in explaining your design choices, e.g. font pairings, hierarchical levels, etc
+* Be bright and bold to make your work pop and draw the eye
+* Be subtle and crafty to make your work reveal itself only gradually
+
 
 
 
