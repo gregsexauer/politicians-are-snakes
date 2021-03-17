@@ -1,6 +1,6 @@
 # Introduction to the Project
 This project attempts to make an explicitly political argument regarding the condition of democracy in the United States. This project aims to communicate the lack of proper political representation of the Left, as well as suggest the cause of this predicament. The scale of the project is an intentional decision: by creating a large image with small details (particularly, on the television screen) I hope to have viewers "zoom-in" to these smaller details, which "become clear" upon this "closer inspection".  
-
+Link to LFS: https://github.com/gregsexauer/politicians-are-snakes
 # Project 2: Visual Argument / Rhetorical Collage
 
 Your task in this unit is to **make a rhetorical claim through the juxtaposition of images and text.** It's kind of a collage, but a collage with an argument to make. In assigning this, I have two main goals for you: (1) to learn how to ethically obtain images and edit them using digital tools, and (2) to explore the affordances of still images as a medium, and especially their ability to _direct attention_ and _help make ideas memorable_.
