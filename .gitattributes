@@ -1,2 +1,5 @@
 # leaving this blank, but present in case others want to use git lfs
 *.xcf filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+visual[[:space:]]argument.png filter=lfs diff=lfs merge=lfs -text
+visual[[:space:]]argument.xcf filter=lfs diff=lfs merge=lfs -text
